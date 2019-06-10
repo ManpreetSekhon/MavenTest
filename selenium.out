@@ -1,0 +1,11 @@
+2019-06-10 14:21:09 INFO  LoggerTest:21 - log.test1
+2019-06-10 14:21:09 INFO  LoggerTest:22 - logtest2
+2019-06-10 14:21:09 INFO  LoggerTest:23 - invalid browser
+2019-06-10 14:21:56 INFO  LoggerTest:21 - log.test1
+2019-06-10 14:21:56 INFO  LoggerTest:22 - logtest2
+2019-06-10 14:21:56 INFO  LoggerTest:23 - Browser Closed
+2019-06-10 14:21:56 INFO  LoggerTest:24 - invalid browser
+2019-06-10 14:26:10 INFO  LoggerTest:21 - log.test1
+2019-06-10 14:26:10 INFO  LoggerTest:22 - logtest2
+2019-06-10 14:26:10 INFO  LoggerTest:23 - Browser Closed
+2019-06-10 14:26:10 ERROR LoggerTest:24 - invalid browser
